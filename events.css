@@ -1,0 +1,44 @@
+ h1{
+    
+    font-size: 4rem;
+    text-align: center;
+   
+}
+.body{
+    
+    margin: 5rem;
+   
+}
+
+.body div img{
+    width: 75%;
+    border-radius: 2rem;
+    margin: 0 auto 0 auto;
+   
+
+}
+
+.body div p{
+    margin: auto;
+    font-size: larger;
+    
+
+}
+
+.body div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: #d9d6d6 solid .1rem;
+    align-self: flex-start; 
+    background-color: aliceblue; 
+    border-radius: 2rem;
+    
+}
+.body div div{
+    border: none;
+    margin: 0 auto 0 auto;
+}
+h2{
+    text-align: center;
+}
