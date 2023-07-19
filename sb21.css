@@ -18,8 +18,8 @@
     display: flex;
 }
 .top img{
-    height: 55%;
-    width:55%;
+    height: 60%;
+    width:60%;
     display: block;
     border-radius: 5%;
     margin: 0 auto 0 auto;
@@ -47,8 +47,8 @@
     margin-top: 5rem;
 }
 .row1 img{
-    height: 50%;
-    width:50%;
+    height: 55%;
+    width:55%;
     display: block;
     border-radius: 50rem;
     margin: 0 auto 0 auto;
