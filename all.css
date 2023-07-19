@@ -20,7 +20,7 @@ html{
     color: #ffffff;
     display: flex;
     justify-content: space-between;
-    align-items: center; /* Vertically center the content */
+    align-items: center; 
 
 }
 
@@ -94,9 +94,7 @@ nav{
 }
 #ln{
 
-    font-size: 4rem; /* Adjust the font size as needed */
-    /* display:flex;
-    text-align: center; */
+    font-size: 4rem; 
    
 
 }
