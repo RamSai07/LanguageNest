@@ -17,7 +17,7 @@
     display: flex;
 }
 .top img{
-    height: 75%;
+    height: 60%;
     width:60%;
     display: block;
     border-radius: 5%;
@@ -46,8 +46,8 @@
     margin-top: 5rem;
 }
 .row1 img{
-    height: 75%;
-    width:60%;
+    height:50%;
+    width:50%;
     display: block;
     border-radius: 50rem;
     margin: 0 auto 0 auto;
@@ -62,7 +62,7 @@
 
 }
 .row1 div{
-    width: 25%;
+    width: 30%;
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
@@ -75,8 +75,8 @@
     margin-top: 5rem;
 }
 .row2 img{
-    height: 75%;
-    width:60%;
+    height: 50%;
+    width:50%;
     display: block;
     border-radius: 50rem;
     margin: 0 auto 0 auto;
@@ -91,7 +91,6 @@
 }
 .row2 div{
     width: 25%;
-    height:min-content;
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
@@ -105,8 +104,8 @@
     margin-top: 5rem;
 }
 .row3 img{
-    height: 75%;
-    width:60%;
+    height: 50%;
+    width:50%;
     display: block;
     border-radius: 50rem;
     margin: 0 auto 0 auto;
