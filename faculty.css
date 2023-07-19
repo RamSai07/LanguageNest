@@ -17,8 +17,8 @@
     display: flex;
 }
 .top img{
-    height: 60%;
-    width:60%;
+    height: fit-content;
+    width:50%;
     display: block;
     border-radius: 5%;
     margin: 0 auto 0 auto;
@@ -46,7 +46,7 @@
     margin-top: 5rem;
 }
 .row1 img{
-    height:50%;
+    height: fit-content;
     width:50%;
     display: block;
     border-radius: 50rem;
@@ -58,11 +58,11 @@
     text-align: center;
 }
 .row1 h2 span{
-    font-size: 1rem;
+    font-size: 1.5rem;
 
 }
 .row1 div{
-    width: 30%;
+    width: 25%;
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
@@ -75,7 +75,7 @@
     margin-top: 5rem;
 }
 .row2 img{
-    height: 50%;
+    height: fit-content;
     width:50%;
     display: block;
     border-radius: 50rem;
@@ -104,7 +104,7 @@
     margin-top: 5rem;
 }
 .row3 img{
-    height: 50%;
+    height: fit-content;
     width:50%;
     display: block;
     border-radius: 50rem;
