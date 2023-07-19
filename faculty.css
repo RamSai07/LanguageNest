@@ -63,6 +63,7 @@
 }
 .row1 div{
     width: 25%;
+    height: auto;
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
