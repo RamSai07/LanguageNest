@@ -112,10 +112,10 @@ nav{
 #lnlg {
     display: flex;
 }
-#lnlg img {
-    height: 15rem; /* Adjust the height of the logo image as needed */
-    width: auto;
-}
+/* #lnlg img {
+    height: 15rem;
+    
+} */
 
 @media only screen and (max-width: 1000px ) {#lnlg img {
     height: 5rem; /* Adjust the height of the logo image as needed */
