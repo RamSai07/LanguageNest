@@ -63,7 +63,6 @@
 }
 .row1 div{
     width: 25%;
-   display: flex;
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
