@@ -105,7 +105,8 @@ nav{
    
 }
 #srkrlg img {
-    height: 8rem; /* Adjust the height of the logo image as needed */
+    height: 8rem;
+     /* Adjust the height of the logo image as needed */
 }
 
 #lnlg {
@@ -113,6 +114,7 @@ nav{
 }
 #lnlg img {
     height: 15rem; /* Adjust the height of the logo image as needed */
+    width: auto;
 }
 
 @media only screen and (max-width: 1000px ) {#lnlg img {
