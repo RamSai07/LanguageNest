@@ -20,7 +20,7 @@ html{
     color: #ffffff;
     display: flex;
     justify-content: space-between;
-    flex: 1; /* Add this */
+    align-items: center; /* Vertically center the content */
 
 }
 
@@ -94,8 +94,9 @@ nav{
 }
 #ln{
 
-    display:flex;
-    text-align: center;
+    font-size: 3rem; /* Adjust the font size as needed */
+    /* display:flex;
+    text-align: center; */
    
 
 }
@@ -106,9 +107,13 @@ nav{
 #lnlg {
     display: flex;
 }
+#lnlg img {
+    height: 5rem; /* Adjust the height of the logo image as needed */
+}
 
-
-@media only screen and (max-width: 1000px ) {
+@media only screen and (max-width: 1000px ) {#lnlg img {
+    height: 5rem; /* Adjust the height of the logo image as needed */
+}
     #ln {   
         font-size: 70%;
      }
