@@ -47,7 +47,7 @@
     margin-top: 5rem;
 }
 .row1 img{
-    height: 55%;
+    /* height: 55%; */
     width:55%;
     display: block;
     border-radius: 50rem;
@@ -76,7 +76,7 @@
     margin-top: 5rem;
 }
 .row2 img{
-    height: fit-content;
+    /* height: fit-content; */
     width:50%;
     display: block;
     border-radius: 50rem;
@@ -105,7 +105,7 @@
     margin-top: 5rem;
 }
 .row3 img{
-    height: fit-content;
+    /* height: fit-content; */
     width:50%;
     display: block;
     border-radius: 50rem;
