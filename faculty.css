@@ -17,7 +17,7 @@
     display: flex;
 }
 .top img{
-    height: 75%;
+    height: 60%;
     width:60%;
     display: block;
     border-radius: 5%;
@@ -46,8 +46,8 @@
     margin-top: 5rem;
 }
 .row1 img{
-    height:70%;
-    width:60%;
+    height:50%;
+    width:50%;
     display: block;
     border-radius: 50rem;
     margin: 0 auto 0 auto;
@@ -66,7 +66,6 @@
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
-    border: 1px solid black;
 }
 
 
@@ -76,8 +75,8 @@
     margin-top: 5rem;
 }
 .row2 img{
-    height:70%;
-    width:60%;
+    height: 50%;
+    width:50%;
     display: block;
     border-radius: 50rem;
     margin: 0 auto 0 auto;
@@ -105,8 +104,8 @@
     margin-top: 5rem;
 }
 .row3 img{
-    height:70%;
-    width:60%;
+    height: 50%;
+    width:50%;
     display: block;
     border-radius: 50rem;
     margin: 0 auto 0 auto;
@@ -143,7 +142,7 @@ font-size: medium;
   }
    @media only screen and (max-width: 530px) {
     .body h2{   
-        font-size: 80%;
+        font-size: 130%;
      }
      .body h2 span{   
         font-size: 60%;
