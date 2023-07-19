@@ -92,6 +92,7 @@
 }
 .row2 div{
     width: 25%;
+   min-height: fit-content;
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
