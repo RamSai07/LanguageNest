@@ -20,7 +20,7 @@ html{
     color: #ffffff;
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    flex: 1; /* Add this */
 
 }
 
@@ -29,6 +29,7 @@ nav{
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
     background-color:#517FC3 ;
+    flex: 1; /* Add this */
 }
 
 .navbar-nav {
