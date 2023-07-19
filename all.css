@@ -108,7 +108,7 @@ nav{
 
 @media only screen and (max-width: 1000px ) {
     #ln {   
-        font-size: 75%;
+        font-size: 70%;
      }
      .navbar-nav {
         gap: 2rem;
@@ -116,7 +116,7 @@ nav{
   }
   @media only screen and (max-width: 530px) {
     #ln {   
-        font-size: 50%;
+        font-size: 45%;
      }
      .navbar-nav {
         gap: 1rem;
@@ -125,7 +125,7 @@ nav{
   } 
   @media only screen and (max-width: 410px) {
     #ln {   
-        font-size: 45%;
+        font-size: 40%;
      }
      .navbar-nav {
         gap: .5rem;
