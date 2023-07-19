@@ -154,7 +154,7 @@ font-size: medium;
   } 
   @media only screen and (max-width: 410px) {
    .body h2{   
-        font-size: 150%;
+        font-size: 110%;
      }
      .body h2 span{   
         font-size: 70%;
@@ -163,11 +163,6 @@ font-size: medium;
         font-size: 75%;
         }
     
-    }
-    @media only screen and (max-width: 330px){
-        .bhu h2{
-            font-size: 75%;
-        }
     }
 
 
