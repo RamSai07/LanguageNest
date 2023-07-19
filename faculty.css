@@ -63,7 +63,7 @@
 }
 .row1 div{
     width: 25%;
-    height: 100%;
+    min-height:fit-content;
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
