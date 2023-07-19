@@ -104,6 +104,10 @@ nav{
     display: flex;
    
 }
+#srkrlg img {
+    height: 5rem; /* Adjust the height of the logo image as needed */
+}
+
 #lnlg {
     display: flex;
 }
