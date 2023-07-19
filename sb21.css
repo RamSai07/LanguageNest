@@ -18,7 +18,7 @@
     display: flex;
 }
 .top img{
-    height: fit-content;
+    height: 45%;
     width:45%;
     display: block;
     border-radius: 5%;
