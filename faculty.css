@@ -92,7 +92,7 @@
 }
 .row2 div{
     width: 25%;
-    min-height:min-content;
+    height:min-content;
     background-color: aliceblue;
     margin: 1rem;
     border-radius: 2rem;
