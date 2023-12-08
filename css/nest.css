@@ -1,0 +1,119 @@
+
+#body{
+    margin:2rem 2rem 0 2rem;
+    overflow: auto;
+    
+}
+
+h1{
+    
+    font-size: 2rem;
+    
+
+}
+
+h3{
+    padding-left: 1.9rem;
+    
+}
+#rajupic{
+    float:left;
+    width: fit-content;
+    padding:0  1rem 0 0;
+    
+}
+
+
+#lnpic{
+    float:left;
+    height: 20rem;
+    width: 20rem;
+    
+}
+
+.writin{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+#carouselExampleIndicators{
+    height: fit-content;
+    width: fit-content;
+    margin-bottom: 2rem;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-content: center;
+}
+
+
+#qpolic h3{
+    margin-left: 16rem;
+}
+#qpolic p{
+    margin-left: 18rem;
+}
+#mission{
+    margin:0 0 0 0;
+}
+@media only screen and (max-width: 1130px ) {
+    #qpolic h3{
+        margin-left: 17rem;
+    }
+    #qpolic p{
+        margin-left: 18rem;
+    }
+    
+    #mission{
+        margin-left:18rem;
+    }
+    #vission{
+        margin-left: 18rem;
+    }
+   
+  }
+  @media only screen and (max-width: 600px) {
+    #qpolic h3{
+        margin-left: 0rem;
+    }
+    #qpolic p{
+        margin-left: 0rem;
+    }
+    #mission{
+        margin-left:0rem;
+    }
+    #vission{
+        margin-left: 0rem;
+    }
+    
+  } 
+  @media only screen and (max-width: 410px) {
+    #qpolic h3{
+        margin-left: 0rem;
+    }
+    #qpolic p{
+        margin-left: 0rem;
+    }
+    #mission{
+        margin-left:0rem;
+    }
+   
+  } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
