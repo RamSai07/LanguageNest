@@ -48,12 +48,13 @@
 }
 .row1 img{
     /* height: 55%; */
-    width:55%;
+    width:50%;
     display: block;
     border-radius: 50rem;
     margin: 0 auto 0 auto;
     
 }
+
 .row1 h2{
     font-size: 2rem;
     text-align: center;
@@ -65,9 +66,44 @@
 .row1 div{
     width: 33.3%;
     background-color: aliceblue;
-    margin: 1rem;
-    border-radius: 2rem;
+    margin: 0.5rem;
+    border-radius: 3rem;
 }
+/* Style for the profile image container */
+
+.row1 .profile-image-container {
+    position: relative;
+    overflow: hidden;
+     /* Adjust the size of the square container as needed */
+    border-radius: 2rem;
+    border: 2px solid #fff; /* Add a circular border */
+    box-sizing: border-box; /* Include the border in the total width and height */
+    transition: all 0.3s ease; /* Add a smooth transition effect */
+  }
+  /* Style for the profile image */
+  .row1 .profile-image-container img {
+    width:20vw;
+    height: 20vw;
+    object-fit: cover; /* Ensure the image covers the entire container */
+    display: block;
+    border-radius: 50%; /* Make the image circular */
+  }
+  .row1 .profile-image-container img:hover{
+    width: 250px;
+    height: 250px;
+    object-fit: cover; /* Ensure the image covers the entire container */
+    display: block;
+    transform: scale(1.2);
+    z-index: 8;
+    border-radius: 50%; /* Make the image circular */
+    transition: all 0.3s ease; /* Add a smooth transition effect */
+
+  }
+  /* Hide the text */
+  /* .row1 .profile-image-container h2 {
+    display: none;
+  }
+   */
 
 
 
