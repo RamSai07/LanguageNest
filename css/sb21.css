@@ -88,17 +88,17 @@
     display: block;
     border-radius: 50%; /* Make the image circular */
   }
-  .row1 .profile-image-container img:hover{
+  /* .row1 .profile-image-container img:hover{
     width: 250px;
     height: 250px;
-    object-fit: cover; /* Ensure the image covers the entire container */
+    object-fit: cover; 
     display: block;
-    transform: scale(1.2);
-    z-index: 8;
-    border-radius: 50%; /* Make the image circular */
-    transition: all 0.3s ease; /* Add a smooth transition effect */
 
-  }
+    z-index: 8;
+    border-radius: 50%; 
+    transition: all 0.3s ease; 
+
+  } */
   /* Hide the text */
   /* .row1 .profile-image-container h2 {
     display: none;
